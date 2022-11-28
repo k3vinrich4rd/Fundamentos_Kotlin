@@ -32,24 +32,22 @@ fun main() {
  */
 
 //Para fazer composição:
-class Carro(var color: String, val yearManufacturing: Int, val dono: Dono) {
-}
-
-class Dono(var name: String, var age: Int) {
+class Car(var color: String, var anoDeFabricacao: Int, var owner: Owner) {
 
 }
 
+data class Owner(var name: String, var age: Int) {
+
+}
 
 fun main() {
-    var carro = Carro("white", 1997, Dono("Kevin Richard", 20))
-    println(carro.color)
-    carro.color = "black"
-    println(carro.color)
+    //Para fazer composição:
+    var car = Car("White", 1997, Owner("Kevin Richard", 20))
+    println(car.color)
+    car.color = "Black"
+    println(car.color)
+    println(car.owner.name)
+    car.owner.name = "Julia"
+    println(car.owner)
 
-    //Para imprimir dono:
-    println(carro.dono.name)
-    println(carro.dono.age)
-
-    carro.dono.name = "Ximbinha"
-    println(carro.dono.name)
 }
