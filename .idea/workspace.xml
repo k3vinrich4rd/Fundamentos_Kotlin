@@ -5,41 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab5b829-847a-4bc6-baf7-0a53eed7027f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/CompanionObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/classe/People2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/classe/Rectangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/collections/ForEach.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/collections/Imutable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/collections/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/collections/Mutable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/collections/Mutable2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/collections/Set.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturadecondicao/IfElse1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturadecondicao/IfElse2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturadecondicao/WhenFuncao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturaderepeticao/DoWhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturaderepeticao/For.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturaderepeticao/While.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/funcoes/Funcoes2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/nullsafety/ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/nullsafety/NullSafety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/nullsafety/NullSafety2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/nullsafety/NullSafety3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/scopingfunction/Let.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/scopingfunction/SemLet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/stringtemplates/StringTemplates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/valoresdeentrada/ValoresDeEntrada.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/variaveis/Variaveis2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/collections/ArrayList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/enums/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturadecondicao/ExpressaoWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturaderepeticao/DoWhile2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturaderepeticao/For2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturaderepeticao/While2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/interandomapscomfor/InterandoMapsComFor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/operadorin/InOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/smartcasts/SmartCasts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/tratamentodeexcecoes/TratamentoDeExcecoes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/tratamentodeexcecoes/idades.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/atributosacessos/Car.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/atributosacessos/Car.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/classe/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/classe/People.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturadedecisao/IfElse.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturadedecisao/IfElse2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturadecondicao/EstruturaWhen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/estruturaderepeticao/Repeticoes.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/funcoes/Funcoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/funcoes/Funcoes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/funcoes/Sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/funcoes/Sum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/funcoesmultiplosretornos/ReturnFuncoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/funcoesmultiplosretornos/FuncoesComMultiplosRetornos.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fundamentos/variaveis/Variaveis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentos/variaveis/Variaveis.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +50,7 @@
       <list>
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Enum" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -105,38 +83,41 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="fundamentos.funcoes" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin.Candido\Desktop\Fundamentos_Kotlin\src\main\kotlin\fundamentos\tratamentodeexcecoes" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.EstruturaWhenKt">
-    <configuration name="CompanionObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.variaveis.CompanionObjectKt" />
+  <component name="RunManager" selected="Kotlin.ArrayListKt">
+    <configuration name="ArrayListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.collections.ArrayListKt" />
       <module name="fundamentos.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturaWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.estruturadecondicao.EstruturaWhenKt" />
+    <configuration name="For2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.estruturaderepeticao.For2Kt" />
       <module name="fundamentos.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncoesComMultiplosRetornosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoesmultiplosretornos.FuncoesComMultiplosRetornosKt" />
+    <configuration name="InOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadorin.InOperatorKt" />
       <module name="fundamentos.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.estruturadecondicao.IfElseKt" />
+    <configuration name="InterandoMapsComForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.interandomapscomfor.InterandoMapsComForKt" />
       <module name="fundamentos.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeticoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.estruturaderepeticao.RepeticoesKt" />
+    <configuration name="TratamentoDeExcecoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.tratamentodeexcecoes.TratamentoDeExcecoesKt" />
       <module name="fundamentos.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.EstruturaWhenKt" />
-        <item itemvalue="Kotlin.RepeticoesKt" />
-        <item itemvalue="Kotlin.FuncoesComMultiplosRetornosKt" />
-        <item itemvalue="Kotlin.IfElseKt" />
-        <item itemvalue="Kotlin.CompanionObjectKt" />
+        <item itemvalue="Kotlin.ArrayListKt" />
+        <item itemvalue="Kotlin.TratamentoDeExcecoesKt" />
+        <item itemvalue="Kotlin.InOperatorKt" />
+        <item itemvalue="Kotlin.InterandoMapsComForKt" />
+        <item itemvalue="Kotlin.For2Kt" />
       </list>
     </recent_temporary>
   </component>
